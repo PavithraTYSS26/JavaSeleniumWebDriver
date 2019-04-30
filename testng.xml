@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="annotation">
+  <test thread-count="5" name="Test1">
+    <classes>
+      <class name="org.testng.arshad.Class1"/>
+      <class name="org.testng.arshad.Class2"/>
+      <class name="org.testng.arshad.Class3"/>
+      <class name="org.testng.arshad.Class4"/>
+    </classes>
+  </test> <!-- Test -->
+   <test thread-count="5" name="Test2">
+    <classes>
+      <class name="org.testng.arshad.Class1"/>
+      <class name="org.testng.arshad.Class2"/>
+      <class name="org.testng.arshad.Class3"/>
+      <class name="org.testng.arshad.Class4"/>
+    </classes>
+  </test> <!-- Test -->
+   <test thread-count="5" name="Test3
+   
+   
+   ">
+    <classes>
+      <class name="org.testng.arshad.Class1"/>
+      <class name="org.testng.arshad.Class2"/>
+      <class name="org.testng.arshad.Class3"/>
+      <class name="org.testng.arshad.Class4"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
